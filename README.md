@@ -35,7 +35,7 @@ I believe in the power of records. I am constantly recording not only my daily, 
 
 
 
-### 🛠 Tech Stack
+### 🛠 Tech Stack 🛠
 
 
 
