@@ -13,6 +13,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+![header](https://capsule-render.vercel.app/api?type=soft&color=auto&height=100&section=header&text=Hello%20I'm%20Haein&fontSize=30)
 
 <div align="left">
 
@@ -101,5 +102,5 @@ I believe in the power of records. I am constantly recording not only my daily, 
 ### 🏆 Status
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=k-haein&show_icons=true&theme=radical)
-
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=k-haein&layout=compact)](https://github.com/k-haein/github-readme-stats)
 </div>
