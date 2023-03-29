@@ -96,6 +96,9 @@ I believe in the power of records. I am constantly recording not only my daily, 
 <img src="https://img.shields.io/badge/Microsoft Teams-6264A7?style=square&logo=Microsoft Teams&logoColor=white"/>
 <img src="https://img.shields.io/badge/Notion-181717?style=square&logo=Notion&logoColor=white"/>
 
+  
+  
+### 🏆 Status
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=k-haein&show_icons=true&theme=radical)
 
