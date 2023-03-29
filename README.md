@@ -15,40 +15,42 @@ Here are some ideas to get you started:
 
 ![header](https://capsule-render.vercel.app/api?type=soft&color=auto&height=100&section=header&text=Hello%20I'm%20Haein!&fontSize=30)
 
-<div align="left">
+<div align="center">
 
 ## Hi there👋
 I am a **Front-end developer**,<br>
 want to be making <i>easy-to-use software</i><br>
 and interested in <img src="https://img.shields.io/badge/Javascript-F7DF1E?style=square&logo=Javascript&logoColor=black"/>
 
-I believe in the power of records. I am constantly recording not only my daily, also the things I study.
+I believe in the power of records.<br>
+  I am constantly recording not only my daily, also the things I study.
 
-
+<br><br>
 📖 기술 블로그 : https://heannim-world.tistory.com/
-
-
+<br><br>
+  
+  
 ### 💻 About Me
 <a href="https://heannim-world.tistory.com/" target="_blank"><img src="https://img.shields.io/badge/Tech BLOG-5c5757?style=flat&logo=Tistory&logoColor=222222"/></a>
 <a href="https://blog.naver.com/eriin12" target="_blank"><img src="https://img.shields.io/badge/Daily BLOG-03C75A?style=flat&logo=Naver&logoColor=ffffff"/></a>
 <a href="#" target="_blank"><img src="https://img.shields.io/badge/k.haein96@gmail.com-e3e3e3?style=flat&logo=Gmail&logoColor=EA4335"/></a>
 
 
+<br>
+<br>
 
-
-### 🛠 Tech Stack 🛠
-
+### 📚 Tech Stack 📚
 
 
 #### ✔ I can use... 
 
 <img src="https://img.shields.io/badge/Javascript-F7DF1E?style=square&logo=Javascript&logoColor=black"/>
 <img src="https://img.shields.io/badge/Jquery-0769AD?style=square&logo=jquery&logoColor=white"/>
-
+<br>
 <img src="https://img.shields.io/badge/Svelte-FF3E00?style=square&logo=Svelte&logoColor=white"/>
 <img src="https://img.shields.io/badge/Java-007396?style=square&logo=Java&logoColor=white"/>
 <img src="https://img.shields.io/badge/Spring-6DB33F?style=square&logo=Spring&logoColor=white"/>
-
+<br>
 <img src="https://img.shields.io/badge/Html5-E34F26?style=square&logo=Html5&logoColor=white"/>
 <img src="https://img.shields.io/badge/Css3-1572B6?style=square&logo=Css3&logoColor=white"/>
 
@@ -58,7 +60,7 @@ I believe in the power of records. I am constantly recording not only my daily, 
 <img src="https://img.shields.io/badge/Oracle-F80000?style=square&logo=Oracle&logoColor=white"/>
 
 <br>
-
+<br>
 <img src="https://img.shields.io/badge/Visual Studio Code-007ACC?style=square&logo=Visual Studio Code&logoColor=white"/>
 <img src="https://img.shields.io/badge/Eclipse IDE-2C2255?style=square&logo=Eclipse IDE&logoColor=white"/>
 
@@ -68,19 +70,8 @@ I believe in the power of records. I am constantly recording not only my daily, 
 <img src="https://img.shields.io/badge/Gitlab-FCA121?style=square&logo=Gitlab&logoColor=white"/>
 
 
-
-
-
-#### ➕ Studying...
-
-<img src="https://img.shields.io/badge/Sass(Scss)-CC6699?style=square&logo=Sass&logoColor=white"/>
-<img src="https://img.shields.io/badge/TypeScript-3178C6?style=square&logo=TypeScript&logoColor=white"/>
-<img src="https://img.shields.io/badge/React-61DAFB?style=square&logo=React&logoColor=white"/>
-<img src="https://img.shields.io/badge/Vue.js-4FC08D?style=square&logo=Vue.js&logoColor=white"/>
-
-
-
-
+<br>
+<br>
 
 #### 🟡 Have experience in...
 
@@ -91,6 +82,21 @@ I believe in the power of records. I am constantly recording not only my daily, 
 
 
 
+<br>
+<br>
+
+#### ➕ Studying...
+
+<img src="https://img.shields.io/badge/Sass(Scss)-CC6699?style=square&logo=Sass&logoColor=white"/>
+<img src="https://img.shields.io/badge/TypeScript-3178C6?style=square&logo=TypeScript&logoColor=white"/>
+<img src="https://img.shields.io/badge/React-61DAFB?style=square&logo=React&logoColor=white"/>
+<img src="https://img.shields.io/badge/Vue.js-4FC08D?style=square&logo=Vue.js&logoColor=white"/>
+
+
+
+<br>
+<br>
+
 #### 💬 Tool
 
 <img src="https://img.shields.io/badge/Slack-4A154B?style=square&logo=Slack&logoColor=white"/>
@@ -98,9 +104,16 @@ I believe in the power of records. I am constantly recording not only my daily, 
 <img src="https://img.shields.io/badge/Notion-181717?style=square&logo=Notion&logoColor=white"/>
 
   
+<br>
+<br>
+<br>
   
-### 🏆 Status
+### 👩‍💻 My Github Stats 👩‍💻
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=k-haein&show_icons=true&theme=radical)
+ 
+  
+### 🏆 Top Langs 🏆
+  
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=k-haein&layout=compact)](https://github.com/k-haein/github-readme-stats)
 </div>
